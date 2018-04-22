@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Configure meetings system from Acme",
+        "location": "",
+        "startsAt": "2018-04-19 08:00:00",
+        "endsAt": "2018-04-19 10:00:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Lunch",
+        "location": "",
+        "startsAt": "2018-04-19 11:40:00",
+        "endsAt": "2018-04-19 12:10:00",
+        "priority": "High"
+    }
+]

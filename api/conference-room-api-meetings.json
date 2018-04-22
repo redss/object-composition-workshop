@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Team 1 standup",
+        "location": "gray conference room",
+        "startsAt": "2018-04-19 08:45:00",
+        "endsAt": "2018-04-19 09:15:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Team 2 standup",
+        "location": "gray conference room",
+        "startsAt": "2018-04-19 09:30:00",
+        "endsAt": "2018-04-19 10:00:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Team 3 standup",
+        "location": "green conference room",
+        "startsAt": "2018-04-19 09:30:00",
+        "endsAt": "2018-04-19 10:00:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Planning",
+        "location": "green conference room",
+        "startsAt": "2018-04-19 10:00:00",
+        "endsAt": "2018-04-19 11:00:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Weekly status",
+        "location": "gray conference room",
+        "startsAt": "2018-04-19 11:00:00",
+        "endsAt": "2018-04-19 11:30:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Team 1 standup",
+        "location": "gray conference room",
+        "startsAt": "2018-04-20 08:45:00",
+        "endsAt": "2018-04-20 09:15:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Team 2 standup",
+        "location": "gray conference room",
+        "startsAt": "2018-04-20 09:30:00",
+        "endsAt": "2018-04-20 10:00:00",
+        "priority": "Medium"
+    },
+    {
+        "name": "Team 3 standup",
+        "location": "green conference room",
+        "startsAt": "2018-04-20 09:30:00",
+        "endsAt": "2018-04-20 10:00:00",
+        "priority": "Medium"
+    }
+]

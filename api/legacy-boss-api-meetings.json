@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Acme software training",
+        "location": "Acme office",
+        "startDateTime": "2018-04-19 14:00:00",
+        "endDateTime": "2018-04-19 16:00:00",
+        "priority": "Insignificant"
+    },
+    {
+        "title": "Dinner with Acme management",
+        "location": "Masalahouse",
+        "startDateTime": "2018-04-19 17:00:00",
+        "endDateTime": "2018-04-19 19:00:00",
+        "priority": "Major"
+    },
+    {
+        "title": "Closing the deal",
+        "location": "Acme office",
+        "startDateTime": "2018-04-20 15:00:00",
+        "endDateTime": "2018-04-20 17:00:00",
+        "priority": "Critical"
+    },
+    {
+        "title": "Another dinner with Acme management",
+        "location": "Masalahouse",
+        "startDateTime": "2018-04-20 18:00:00",
+        "endDateTime": "2018-04-20 19:30:00",
+        "priority": "Major"
+    },
+    {
+        "title": "Party with Acme",
+        "location": "Spiż",
+        "startDateTime": "2018-04-20 20:00:00",
+        "endDateTime": "2018-04-21 02:00:00",
+        "priority": "Critical"
+    }
+]

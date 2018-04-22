@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetings", "Meetings\Meetings.csproj", "{D1E4531B-4A9E-4007-8F98-6C37A8747692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyMeetings", "LegacyMeetings\LegacyMeetings.csproj", "{81ED01B4-1548-4BB6-919C-2C364A19720E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E4531B-4A9E-4007-8F98-6C37A8747692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E4531B-4A9E-4007-8F98-6C37A8747692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E4531B-4A9E-4007-8F98-6C37A8747692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E4531B-4A9E-4007-8F98-6C37A8747692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ED01B4-1548-4BB6-919C-2C364A19720E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ED01B4-1548-4BB6-919C-2C364A19720E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ED01B4-1548-4BB6-919C-2C364A19720E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ED01B4-1548-4BB6-919C-2C364A19720E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5CDD05-D254-42DC-B20A-E1BB8D0252C4}
+	EndGlobalSection
+EndGlobal
