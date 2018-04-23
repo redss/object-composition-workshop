@@ -10,8 +10,8 @@ namespace Meetings
     {
         public void Display()
         {
-            Console.BufferWidth = 100;
             Console.WindowWidth = 100;
+            Console.BufferWidth = 100;
 
             Console.WriteLine("Loading meetings list...");
 
