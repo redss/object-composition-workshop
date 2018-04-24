@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27428.2002
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetings", "Meetings\Meetings.csproj", "{D1E4531B-4A9E-4007-8F98-6C37A8747692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyMeetings", "LegacyMeetings\LegacyMeetings.csproj", "{81ED01B4-1548-4BB6-919C-2C364A19720E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyMeetings", "LegacyMeetings\LegacyMeetings.csproj", "{81ED01B4-1548-4BB6-919C-2C364A19720E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA078162-BCAB-4B99-8E11-6A199F3B8BE8}"
+	ProjectSection(SolutionItems) = preProject
+		..\api-urls.txt = ..\api-urls.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
